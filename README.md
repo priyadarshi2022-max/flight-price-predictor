@@ -1,6 +1,6 @@
 # ✈️ Flight Price Prediction using AWS SageMaker
 
-This project demonstrates an end-to-end machine learning pipeline for flight price prediction using Amazon SageMaker. Built by following the CampusX + AWS tutorial series, this project incorporates data preprocessing, model training, deployment, and cloud-native development.
+This project demonstrates an end-to-end machine learning pipeline for flight price prediction using Amazon SageMaker. This project incorporates data preprocessing, model training, deployment, and cloud-native development.
 
 ## 🔍 Overview
 
