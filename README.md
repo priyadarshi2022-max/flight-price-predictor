@@ -17,11 +17,11 @@ This project demonstrates an end-to-end machine learning pipeline for flight pri
 
 ## ⚙️ Workflow
 
-1. **Session 1**: AWS & SageMaker Setup
-2. **Session 2**: GitHub, Data Cleaning
-3. **Session 3–4**: Exploratory Data Analysis (EDA)
-4. **Session 5**: Feature Engineering with custom transformers
-5. **Session 6**: Model Training, Hyperparameter Tuning, Deployment
+1. AWS & SageMaker Setup
+2. GitHub, Data Cleaning
+3. Exploratory Data Analysis (EDA)
+4. Feature Engineering with custom transformers
+5. Model Training, Hyperparameter Tuning, Deployment
 
 > Note: Due to AWS charges, the model was trained on a subset of the data.
 
